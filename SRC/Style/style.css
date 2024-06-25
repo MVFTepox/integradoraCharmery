@@ -1,0 +1,24 @@
+.navbar-custom {
+    background-color: #faf3e6;
+}
+.navbar-custom .navbar-brand img {
+    height: 40px;
+}
+.navbar-custom .nav-item .nav-link,
+.navbar-custom .navbar-toggler {
+    color: #b87333;
+}
+.navbar-custom .form-control {
+    border-color: #b87333;
+}
+.navbar-custom .input-group-append .btn {
+    background-color: #faf3e6;
+    border-color: #b87333;
+}
+.navbar-custom .input-group-append .btn .fa {
+    color: #b87333;
+}
+
+.navbar-custom .dropdown-toggle::after {
+    display: none;
+}
